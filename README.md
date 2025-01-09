@@ -57,8 +57,8 @@ What are the benefits of this approach?
 
 ## How to run
 
-Just open the project in your favorite *IDE* and run it.
+Just open the project in your favourite *IDE* and run it.
 No database is needed, everything is in-memory.
-Moreover, I provide *Postman* collection that you can use to test the application.
+Moreover, I provide *Postman* collection (*Modulith.postman_collection.json*) that you can use to test the application.
 
 ![](documentation/Requests.png)
